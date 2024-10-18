@@ -13,7 +13,7 @@
 
 There are multiple repositories in this Plant-Tracer GitHub Organization. This file describes only the public repositories.
 
-[webapp](https://github.com/Plant-Tracer/webapp): This is the new version of Plant Tracer. The plan is to replicate the functionality of legacy-ios-app as a multi-platform web application that will run on iOS, Android, and PC/Mac/Linux web browsers. It adds video capture functionality and will support multiple analysis algorithms. It will allow users to upload and manage their own videos, and it will let researchers and admins have access to all the videos and manage and analyze them further. The application supports its use in academic courses. We plan to have the first version live by early November 2023. (Gravitropism; block matching only in 1.0)
+[webapp](https://github.com/Plant-Tracer/webapp): This is the new version of Plant Tracer. The plan is to replicate the functionality of legacy-ios-app as a multi-platform web application that will run on iOS, Android, and PC/Mac/Linux web browsers. It will allow users to upload and manage their own videos, and it will let researchers and admins have access to all the videos and manage and analyze them further.
 
 [web-static](https://github.com/Plant-Tracer/web-static): Content repository for the current planttracer.com static website. It has a description of the PlantTracer project, and a tutorial on how to use the legacy-ios-app.
 
